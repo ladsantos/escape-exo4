@@ -10,7 +10,7 @@ This session is dedicated to discussions on theoretical and observational aspect
 
 With TESS discovering many new exoplanets orbiting bright stars, the continued operations of the Hubble Space Telescope, and the development of new methods to observe/model atmospheric escape, there is no better timing to hold this splinter session. Lasting for about three hours, we will have two invited speakers who will review the state of the field in observations and theory. 
 
-The session will be open for contributed, short talks of 10 minutes each, with plenty of time reserved for discussion. Depending on the number of participants, we may break out into parallel working groups for discussing and tackling specific problems. We also plan on holding a coffee break in between talks. This plan is not set in stone and we will tailor it depending on the number of submissions and participants.
+The session will be open for contributed, short talks of 10 minutes each, including questions. Depending on the number of participants, we may break out into parallel working groups for discussing and tackling specific problems. We also plan on holding a coffee break in between talks. This plan is not set in stone and we will tailor it depending on the number of submissions and participants.
 
 ## Registration
 
