@@ -33,6 +33,19 @@ If you wish to participate in this session, please use the following link: \[com
 - Final program
 - Coffee-break menu
 
+## SOC
+
+- Leonardo dos Santos (STScI, *chair*)
+- Aline Vidotto (Sterrenwacht Leiden)
+- James Kirk (CfA Harvard)
+- Jessica Spake (Caltech)
+- Munazza Alam (Carnegie EPL)
+- Shreyas Vissapragada (Caltech)
+
+### Questions?
+
+Please contact one of the SOC members (our emails should be easy to find with your preferred search engine).
+
 <!-- 
 You can use the [editor on GitHub](https://github.com/ladsantos/escape-exo4/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
