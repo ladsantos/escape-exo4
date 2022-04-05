@@ -14,13 +14,13 @@ The session will be open for contributed, short talks of 10 minutes each, with p
 
 ## Preliminary agenda
 
-1:00 PM -- 1:05 PM: Introduction
-1:05 PM -- 2:05 PM: Invited review talks
-2:05 PM -- 2:35 PM: First round of contributed mini-talks
-2:35 PM -- 3:00 PM: Coffee-break
-3:00 PM -- 3:30 PM: Second round of contributed mini-talks
-3:30 PM -- 4:00 PM: Topical discussions
-4:00 PM: End
+- 1:00 PM -- 1:05 PM: Introduction
+- 1:05 PM -- 2:05 PM: Invited review talks
+- 2:05 PM -- 2:35 PM: First round of contributed mini-talks
+- 2:35 PM -- 3:00 PM: Coffee-break
+- 3:00 PM -- 3:30 PM: Second round of contributed mini-talks
+- 3:30 PM -- 4:00 PM: Topical discussions
+- 4:00 PM: End
 
 <!-- 
 You can use the [editor on GitHub](https://github.com/ladsantos/escape-exo4/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
