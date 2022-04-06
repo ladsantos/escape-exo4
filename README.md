@@ -14,15 +14,19 @@ The session will be open for contributed, short talks of 10 minutes each, includ
 
 ## Registration
 
-If you wish to participate in this session, please use the following link: \[coming soon\]. You will be able to submit a short abstract if you plan on giving a contributed mini-talk, or a topic for in-depth discussion. If we receive more talk submissions than we can accomodate in our agenda, we will give preference for early-career scientists.
+If you wish to participate in this session, please use the following link: 
+
+[Registration form](https://forms.gle/DjKvoFWkuh4tBTsh6)
+
+You will be able to submit a short abstract if you plan on giving a contributed talk, or a topic for in-depth discussion. If we receive more talk submissions than we can accomodate in our agenda, we will give preference for early-career scientists.
 
 ## Preliminary agenda
 
 - 1:00 PM -- 1:05 PM: Introduction
 - 1:05 PM -- 2:05 PM: Invited review talks
-- 2:05 PM -- 2:35 PM: First round of contributed mini-talks
+- 2:05 PM -- 2:35 PM: First round of contributed talks
 - 2:35 PM -- 3:00 PM: Coffee-break
-- 3:00 PM -- 3:30 PM: Second round of contributed mini-talks
+- 3:00 PM -- 3:30 PM: Second round of contributed talks
 - 3:30 PM -- 4:00 PM: Topical discussions
 - 4:00 PM: End
 
@@ -44,42 +48,4 @@ If you wish to participate in this session, please use the following link: \[com
 
 ### Questions?
 
-Please contact one of the SOC members (our emails should be easy to find with your preferred search engine).
-
-<!-- 
-You can use the [editor on GitHub](https://github.com/ladsantos/escape-exo4/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ladsantos/escape-exo4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
- -->
+Please contact Leonardo dos Santos (ldsantos /at\ stsci.edu) or any of the SOC members by email.
